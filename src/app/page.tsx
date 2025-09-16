@@ -3,7 +3,7 @@ const HomePage = () => {
     <div className="text-center">
       <h2 className="text-3xl font-bold mb-4">Welcome to My Website</h2>
       <img
-        src="/front.jpg"
+        src="/model.jpg"
         alt="Front"
         className="mx-auto rounded-lg shadow-lg w-96"
       />
